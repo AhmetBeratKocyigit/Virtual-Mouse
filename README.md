@@ -1,6 +1,9 @@
 <h1 align="center">🖐️ Virtual Mouse | Hand Gesture Controlled Mouse</h1>
 
 <p align="center">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
+  <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" />
+  <br/> <br/>
   <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python" />
   <img src="https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv" />
   <img src="https://img.shields.io/badge/CvZone-1.5.6-orange" />
